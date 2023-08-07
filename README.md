@@ -1,6 +1,6 @@
 # DX-Game-Loader
 This is a loader for the various DX games based off the Xbox 360 Kiosk Disc 1.0.
-Put your extracted DX game copies in the "demos" folder.
+Put your extracted DX game copies in the "demos" folder. You can find the DX mods here https://github.com/hmxmilohax
 
 # Editing Info
 
