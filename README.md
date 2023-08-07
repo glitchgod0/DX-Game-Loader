@@ -11,3 +11,6 @@ The language packs are the text for extra languages which havent been translated
 
 Videos need to be defined and added as the original folder was 2.7GB.
 
+# Credits
+MexicanPB - GRRBDX, TBRBDX, DC1DX, DC3DX Icons
+
