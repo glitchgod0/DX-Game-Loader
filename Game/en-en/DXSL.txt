@@ -1,1 +1,1 @@
-Add desc
+DX Settings Loader is an on-console Xbox 360 application for generating configuration files for Rock Band Deluxe games. You can use this application to save your Deluxe Settings for select Deluxe games and have them set to your liking every time.
